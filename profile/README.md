@@ -1,6 +1,7 @@
 # 🎓 2025년 전북대 캡스톤
 
 ---
+![배너](https://github.com/JBNUCapstone-2025/.github/blob/main/profile/일을하면포악해진다.jpeg)
 
 ## 📌 1. 과제 계획서
 
